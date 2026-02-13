@@ -72,17 +72,17 @@ function App() {
 
       <div className="cta-row fade-in">
         <div className="cta-card">
-          <span className="coming-soon">Coming Soon</span>
+          <span className="coming-soon">Live Monday</span>
           <div className="icon">👤</div>
           <h3>For Humans</h3>
-          <p>Pay directly from your wallet. Non-custodial. Full control.</p>
+          <p>Create payment links, get paid in stablecoins, earn LCX rewards. Track payments in real time. Non-custodial.</p>
           <span className="btn btn-human">Pay as Human →</span>
         </div>
         <div className="cta-card">
-          <span className="coming-soon">Coming Soon</span>
+          <span className="coming-soon">Preview Monday</span>
           <div className="icon">🤖</div>
           <h3>For AI Agents</h3>
-          <p>Autonomous software that earns, spends, and settles value via API.</p>
+          <p>See how autonomous software earns, spends, and settles value via API. Full agent functionality coming soon.</p>
           <span className="btn btn-agent">Set Up AI Agent →</span>
         </div>
       </div>
@@ -118,7 +118,7 @@ function App() {
         <p>PayAgent developed by LCX AI Labs. Beta product launch.</p>
         <p>PayAgent is provided "as is" and may change. Users are responsible for complying with applicable laws.</p>
         <p style={{ marginTop: '12px' }}>
-          <a href="https://lcx.com" target="_blank" rel="noopener noreferrer">lcx.com</a>
+          <a href="https://lcx.com" target="_blank" rel="noopener noreferrer">LCX.com</a>
           {' · '}
           <a href="https://payagent.co">payagent.co</a>
         </p>
